@@ -12,6 +12,6 @@ LOCAL_PRIVILEGED_MODULE := true
 
 LOCAL_MODULE_CLASS := APPS
 
-LOCAL_SRC_FILES := app-contemporary-release-unsigned.apk
+LOCAL_SRC_FILES := com.github.yeriomin.yalpstore_43.apk
 
 include $(BUILD_PREBUILT)
